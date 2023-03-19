@@ -3,10 +3,10 @@
 <img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/3kh0/3kh0.github.io/main/images/logo.png">
 </kbd>
 </p>
-<h1 align="center">3kh0</h1>
+<h1 align="center">GoojDex</h1>
 <p align="center">The better unblocked games website.</p>
 
-This is the GitHub repo which is used to host the website. If you want to use the games on here on your website, please message me on discord at `3kh0_#6969` and we can talk! If you're looking for the link, click [here](https://3kh0.github.io).
+This is the GitHub repo which is used to host the website. If you want to use the games on here on your website, please message me on discord at `3kh0_#6969` and we can talk! If you're looking for the link, click [here](https://GoojDex.github.io).
 
 <img src="https://invidget.switchblade.xyz/wv6huJAwEv?theme=dark)](https://discord.gg/wv6huJAwEv" alt="discord"></img>
 
