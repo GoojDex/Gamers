@@ -74,7 +74,7 @@ window.onerror = (e) => {
 
 // Add the main script in the <head> tags
 const jsdelivr = document.createElement('script');
-jsdelivr.setAttribute('src', 'https://cdn.jsdelivr.net/gh/3kh0/3kh0.github.io/js/main.js');
+jsdelivr.setAttribute('src', 'https://cdn.jsdelivr.net/gh/GoojDex/Gamers/js/main.js');
 document.head.append(jsdelivr);
 
 // Collect Tab Cloak data from local storage
